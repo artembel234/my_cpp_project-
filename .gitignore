@@ -1,11 +1,1 @@
-build/ 
-*.o 
-*.a 
-*.so 
-42 
-*.dll 
-*.exe 
-*.log 
-*.tmp 
-.DS_Store 
-Thumbs.db
+.cache/
